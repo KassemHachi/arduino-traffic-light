@@ -1,9 +1,9 @@
 int  green = 2 ;
 int  orange = 3 ;
 int  red = 4 ;
-long reddelay = 50000 ;//00 ;
-long greendelay = 30000 ;//00 ;
-long orangedelay = 3000 ;//00 ;
+long reddelay = 50000 ;
+long greendelay = 30000 ;
+long orangedelay = 3000 ;
 void setup()
 {
   pinMode(green, OUTPUT);
